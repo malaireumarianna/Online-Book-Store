@@ -5,3 +5,4 @@ pymysql>=0.7.1
 pymongo>=3.2.3
 jsonpickle>= 0.9.3
 gunicorn == 19.9.0
+streamlit==0.57.3
