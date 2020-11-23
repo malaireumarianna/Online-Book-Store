@@ -1,2 +1,1 @@
-webdev: python web.py
-web: python web.py production
+web: gunicorn mainscript:app
